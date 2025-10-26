@@ -54,14 +54,12 @@ The Power BI dashboard includes:
 
 ## 📷 Dashboard Screenshots
 
-![Dashboard Overview](<img width="1919" height="794" alt="Screenshot 2025-10-25 231853" src="https://github.com/user-attachments/assets/b1eb7366-c927-4f0a-864e-b28c438b1637" />
+![Dashboard Overview](
 )
-![Category Analysis](<img width="251" height="389" alt="Screenshot 2025-10-26 000951" src="https://github.com/user-attachments/assets/62a76313-2fd0-45e9-af91-1c49c5d15129" />)
+![Category Analysis]()
 
-![Forecast Chart](<img width="1919" height="792" alt="Screenshot 2025-10-25 231946" src="https://github.com/user-attachments/assets/52240050-396a-403f-ad5a-82f1484016bc" />
-)
-![Top Products](<img width="1919" height="792" alt="Screenshot 2025-10-25 231908" src="https://github.com/user-attachments/assets/38646f33-d6ba-41fe-8483-46fc904684b6" />
-)
+![Forecast Chart]()
+![Top Products](<img width="1919" height="792" alt="Screenshot 2025-10-25 231908" src="[https://github.com/Mayank10021/Pizza-Sales-Analytics-using-Excel-and-Power-BI]/>)
 
 ---
 
