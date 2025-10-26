@@ -54,7 +54,15 @@ The Power BI dashboard includes:
 
 ## 📷 Dashboard Screenshots
 
-https://github.com/Mayank10021/Pizza-Sales-Analytics-using-Excel-and-Power-BI/blob/main/Screenshot%202025-10-26%20000809.png
+1. https://github.com/Mayank10021/Pizza-Sales-Analytics-using-Excel-and-Power-BI/blob/main/Screenshot%202025-10-25%20231853.png
+2. https://github.com/Mayank10021/Pizza-Sales-Analytics-using-Excel-and-Power-BI/blob/main/Screenshot%202025-10-25%20231908.png
+3. https://github.com/Mayank10021/Pizza-Sales-Analytics-using-Excel-and-Power-BI/blob/main/Screenshot%202025-10-25%20231924.png
+4. https://github.com/Mayank10021/Pizza-Sales-Analytics-using-Excel-and-Power-BI/blob/main/Screenshot%202025-10-25%20231946.png
+5. https://github.com/Mayank10021/Pizza-Sales-Analytics-using-Excel-and-Power-BI/blob/main/Screenshot%202025-10-26%20000734.png
+6. https://github.com/Mayank10021/Pizza-Sales-Analytics-using-Excel-and-Power-BI/blob/main/Screenshot%202025-10-26%20000809.png
+7. https://github.com/Mayank10021/Pizza-Sales-Analytics-using-Excel-and-Power-BI/blob/main/Screenshot%202025-10-26%20000951.png
+8. https://github.com/Mayank10021/Pizza-Sales-Analytics-using-Excel-and-Power-BI/blob/main/Screenshot%202025-10-26%20001135.png
+
 ---
 
 ## 💡 Business Insights
