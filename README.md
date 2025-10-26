@@ -54,6 +54,15 @@ The Power BI dashboard includes:
 
 ## 📷 Dashboard Screenshots
 
+<img width="816" height="264" alt="Screenshot 2025-10-26 000809" src="https://github.com/Mayank10021/20b53110-65f7-4a7d-95e9-ae50e9ba76ff" />
+<img width="837" height="158" alt="Screenshot 2025-10-26 000734" src="https://github.com/Mayank10021/370ada38-8e5d-4a85-8cb2-392b8c846981" />
+<img width="1919" height="792" alt="Screenshot 2025-10-25 231946" src="https://github.com/Mayank10021/dafce87e-6a5a-4791-bffe-f787115a6054" />
+<img width="1919" height="795" alt="Screenshot 2025-10-25 231924" src="https://github.com/Mayank10021/196f7dfc-95fa-44e0-9b09-d3be26cd7118" />
+<img width="1919" height="792" alt="Screenshot 2025-10-25 231908" src="https://github.com/Mayank10021/29515b74-e8b3-4576-8796-572e11881dd0" />
+<img width="1919" height="794" alt="Screenshot 2025-10-25 231853" src="https://github.com/Mayank10021/7371685f-1d8e-4429-8065-ac0bd414612c" />
+<img width="1101" height="270" alt="Screenshot 2025-10-26 001135" src="https://github.com/Mayank10021/60bc3c10-6b2b-47a0-95ea-7835586d497a" />
+<img width="251" height="389" alt="Screenshot 2025-10-26 000951" src="https://github.com/Mayank10021/de6e7ba3-e14e-495d-8b85-1e5395236510" />
+
 ---
 
 ## 💡 Business Insights
