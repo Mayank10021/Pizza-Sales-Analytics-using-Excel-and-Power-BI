@@ -1,44 +1,106 @@
-# Pizza-Shop-Sales-Analysis-SQL-Power-BI
-This repository contains the code and data for analyzing pizza sales using SQL Server as the data store and Power BI for data visualization and analysis. Explore sales trends, customer preferences, and more to gain insights into pizza sales using this repository.
+# 🍕 Pizza Sales Analytics using Excel and Power BI
 
-## Key Features
-- SQL queries and SSIS packages to extract and transform data from SQL Server database.
-- Power Query in Power BI to connect to SQL Server and load data.
-- Compare results from SQL SSIS vs Power Query.
-- Power BI reports and dashboards to visualize sales trends and customer insights.
-- Insights into best selling pizzas, toppings, customer preferences and more.
+This repository contains the data and files for analyzing pizza sales using **Microsoft Excel** for data preparation and **Power BI** for data visualization and forecasting.  
+The goal is to explore sales performance, category-wise trends, and future sales forecasts for a retail pizza outlet.
 
-## Built Using
-- SQL Server - As the database to store sales data.
-- SQL Server Integration Services (SSIS) - To extract and transform data.
-- Power BI - Power Query to connect to SQL and Power BI reports for analysis.
+---
 
-## SQL Server SSIS Queries File Contains SQL Queries and results screenshots:
-[Pizza Sales SQL Queries.docx](https://github.com/DataVizExpert-Sham/Pizza-Shop-Sales-Analysis-SQL-Power-BI/files/14177623/Pizza.Sales.SQL.Queries.docx)
+## 📊 Key Features
+- Data cleaning, transformation, and KPI calculation using **Microsoft Excel**.  
+- Interactive **Power BI dashboards** to visualize sales trends and performance.  
+- **Forecasting model** in Power BI to predict future revenue growth.  
+- Insights into best-selling pizzas, category contributions, and customer preferences.  
+- Business recommendations for improving marketing and inventory planning.  
 
-## Benefits
-- Compare ETL techniques using SQL SSIS vs Power Query.
-- Understand performance and limitations of each approach.
-- Gain insights into pizza sales trends, customer preferences and more.
-- Optimize menu, ingredients and marketing based on analysis.
+---
 
-This dashboard in Power BI shows an overview of total sales, top pizzas sold and sales by Pizza type.
-![Screenshot 2024-02-03 165956](https://github.com/DataVizExpert-Sham/Pizza-Shop-Sales-Analysis-SQL-Power-BI/assets/151017676/730b4954-811d-4ff7-a345-9d41338e5558)
-![Screenshot 2024-02-03 170157](https://github.com/DataVizExpert-Sham/Pizza-Shop-Sales-Analysis-SQL-Power-BI/assets/151017676/1f3f159f-0ab5-4b79-8db5-ee70ef4e440e)
-![Screenshot 2024-02-03 170045](https://github.com/DataVizExpert-Sham/Pizza-Shop-Sales-Analysis-SQL-Power-BI/assets/151017676/58302b24-33cc-4d7e-97ef-8f260e427f42)
-![Screenshot 2024-02-03 170024](https://github.com/DataVizExpert-Sham/Pizza-Shop-Sales-Analysis-SQL-Power-BI/assets/151017676/44fa341c-d8ae-42d5-8ac2-dbabf6d8e107)
+## 🧠 Built Using
+- **Microsoft Excel** – for data cleaning and preparation.  
+- **Microsoft Power BI** – for dashboard creation and forecasting.  
+- **DAX (Data Analysis Expressions)** – for KPI and calculated measures in Power BI.  
 
-## Analysis provides insights to:
-- Improve menu options
-- Optimize ingredient stocking
-- Target marketing and promotions
+---
 
-## Comparing SQL SSIS vs Power Query helps determine:
-- Which ETL technique is faster
-- Which is easier to maintain
-- Any limitations of each approach
+## 📂 Repository Contents
+| File | Description |
+|------|--------------|
+| `Pizza_Sales_Analytics.pbix` | Power BI Dashboard file with visuals and forecasting. |
+| `pizza_sales.xlsx` | Excel dataset used for analysis and as Power BI data source. |
+| `Screenshots/` | Folder containing Power BI dashboard screenshots. |
+| `README.md` | Project documentation (this file). |
 
-## Power BI Sales Analytics File :
-Pizza Sales Analytics.pbix
+---
 
-Hope this helps! Let me know if you have any other questions.
+## 🧩 Insights and KPIs
+- **Total Revenue:** ₹8,17,860  
+- **Total Orders:** 21,350  
+- **Total Pizzas Sold:** 49,500  
+- **Average Order Value:** ₹38.33  
+- **Forecasted Growth:** ~10% over next 6 months  
+
+---
+
+## 📈 Dashboards Overview
+
+The Power BI dashboard includes:
+1. **KPI Cards** – Total Revenue, Total Orders, Total Pizzas Sold, Average Order Value  
+2. **Line Chart** – Monthly sales trend with forecasting line  
+3. **Pie Chart** – Category-wise revenue distribution (Classic, Veggie, Supreme, Chicken)  
+4. **Bar Chart** – Top 5 pizzas by revenue  
+5. **Column Chart** – Sales by size (S, M, L, XL)  
+6. **Forecast Visualization** – Revenue prediction for next 6 months  
+
+---
+
+## 📷 Dashboard Screenshots
+
+![Dashboard Overview](Screenshots/Dashboard1.png)
+![Category Analysis](Screenshots/Dashboard2.png)
+![Forecast Chart](Screenshots/Dashboard3.png)
+![Top Products](Screenshots/Dashboard4.png)
+
+---
+
+## 💡 Business Insights
+- **Classic pizzas** contribute ~33% of total revenue.  
+- **Large-sized pizzas** generate the highest sales value.  
+- **Peak months:** July and December.  
+- **Weekend orders** are 25–30% higher than weekdays.  
+- Forecast indicates **steady growth in future sales**.  
+
+---
+
+## 🧾 Benefits of the Project
+- Simple and user-friendly Excel + Power BI workflow.  
+- No database or SQL knowledge required.  
+- Easy scalability for any retail store or restaurant data.  
+- Real-time, visual, and data-driven decision support system.  
+
+---
+
+## 🔮 Future Enhancements
+- Add customer-level data for loyalty and segmentation analysis.  
+- Integrate Power BI with Google Sheets for live updates.  
+- Use AI-based forecasting (ARIMA / Prophet) for deeper accuracy.  
+- Automate report refresh using Power BI Service and Power Automate.
+
+---
+
+## 🌐 GitHub Repository
+This repository is part of the **Business Analytics Mini Project** for the academic year 2024–2025.
+
+> 📎 **GitHub Link:** [https://github.com/Mayank10021/pizza-sales-analytics-using-excel-and-power-bi](https://github.com/Mayank10021/pizza-sales-analytics-using-excel-and-power-bi)
+
+---
+
+### 👨‍💻 Author
+**Mayank Aneja**  
+MCA / Business Analytics  
+**Chandigarh University**  
+📧 Email: mayankaneja2003@gmail.com
+
+---
+
+### ⭐ Support
+If you found this project helpful, feel free to ⭐ star the repository or fork it for your own learning!
+
