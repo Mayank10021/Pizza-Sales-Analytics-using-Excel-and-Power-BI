@@ -54,13 +54,6 @@ The Power BI dashboard includes:
 
 ## 📷 Dashboard Screenshots
 
-![Dashboard Overview](
-)
-![Category Analysis]()
-
-![Forecast Chart]()
-![Top Products](<img width="1919" height="792" alt="Screenshot 2025-10-25 231908" src="[https://github.com/Mayank10021/Pizza-Sales-Analytics-using-Excel-and-Power-BI]/>)
-
 ---
 
 ## 💡 Business Insights
