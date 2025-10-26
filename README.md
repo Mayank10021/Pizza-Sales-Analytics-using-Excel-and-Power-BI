@@ -54,10 +54,10 @@ The Power BI dashboard includes:
 
 ## 📷 Dashboard Screenshots
 
-![Dashboard Overview](Screenshot 2025-10-25 231853.png)
-![Category Analysis](Screenshot 2025-10-26 000951.png)
-![Forecast Chart](Screenshot 2025-10-25 231946.png)
-![Top Products](Screenshot 2025-10-25 231908.png)
+![Dashboard Overview](main/Screenshot 2025-10-25 231853.png)
+![Category Analysis](main/Screenshot 2025-10-26 000951.png)
+![Forecast Chart](main/Screenshot 2025-10-25 231946.png)
+![Top Products](main/Screenshot 2025-10-25 231908.png)
 
 ---
 
